@@ -3,19 +3,20 @@
 </p>
 <h1 align="center">Привет всем</h1>
 Я - начинающая frontend-разработчица из ближайшего Подмосковья (ЗАТО Звёздный городок).
-Мой стек технологий:
-HTML
-CSS
-Git
-JavaScript
-TypeScript
-React
-Redux
-Webpack
-React Router
-ООП
-Express
-MongoDB
+<br>
+Мой стек технологий:<br>
+HTML<br>
+CSS<br>
+Git<br>
+JavaScript<br>
+TypeScript<br>
+React<br>
+Redux<br>
+Webpack<br>
+React Router<br>
+ООП<br>
+Express<br>
+MongoDB<br>
 
 
 Хочу расти в своих навыках и принять участие в разработке реальных проектов.
