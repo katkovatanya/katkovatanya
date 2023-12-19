@@ -1,8 +1,6 @@
-<p align="center">
-<img src="https://github.com/katkovatanya/katkovatanya/blob/main/illustration.jpg" width="350" align="center">
-</p>
+
 <h1 align="center">Привет всем</h1>
-Я - начинающая frontend-разработчица из ближайшего Подмосковья (ЗАТО Звёздный городок).
+Я - начинающая frontend-разработчица
 <h2>Мой стек технологий:</h2>
 HTML<br>
 CSS<br>
