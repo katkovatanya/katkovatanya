@@ -19,5 +19,5 @@
 <br>
 Хочу расти в своих навыках и принять участие в разработке реальных проектов.
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=katkovatanya)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katkovatanya)](https://github.com/anuraghazra/github-readme-stats)
