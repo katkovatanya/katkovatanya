@@ -20,4 +20,4 @@
 Хочу расти в своих навыках и принять участие в разработке реальных проектов.
 
 
-[![katkovatanya's github activity graph](https://activity-graph.herokuapp.com/graph?username=katkovatanya)](https://github.com/Ashutosh00710//github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
