@@ -19,5 +19,5 @@
 <br>
 Хочу расти в своих навыках и принять участие в разработке реальных проектов.
 
-Активность за последний месяц
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=katkovatanya)](https://github.com/katkovatanya/github-readme-activity-graph)
+
+[![katkovatanya's github activity graph](https://activity-graph.herokuapp.com/graph?username=katkovatanya)](https://github.com/katkovatanya/github-readme-activity-graph)
