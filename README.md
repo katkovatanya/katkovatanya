@@ -3,7 +3,7 @@
 Я - начинающая frontend-разработчица
 <h2>Мой стек технологий:</h2>
 <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-#6CADDF?style=for-the-badge&logo=CSS3&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/CSS3-6CADDF?style=for-the-badge&logo=CSS3&logoColor=#000000"/>
 HTML<br>
 CSS<br>
 Git<br>
