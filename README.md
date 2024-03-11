@@ -1,6 +1,6 @@
 
-<h1 align="center">Привет всем</h1>
-Я - начинающая frontend-разработчица
+<h1 align="center">Всем привет</h1>
+Я - frontend-разработчица
 <h2>Мой стек технологий:</h2>
 <img src="https://img.shields.io/badge/HTML-6CADDF?style=for-the-badge&logo=HTML5&logoColor=000000"/>
 <img src="https://img.shields.io/badge/CSS3-6CADDF?style=for-the-badge&logo=CSS3&logoColor=000000"/>
@@ -17,7 +17,7 @@
 
 <br>
 <br>
-Хочу расти в своих навыках и принять участие в разработке реальных проектов.
+Хочу принять участие в разработке реальных проектов.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katkovatanya&theme=moltack)
