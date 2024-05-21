@@ -17,7 +17,7 @@
 
 <br>
 <br>
-Хочу принять участие в разработке реальных проектов.
+Хочу принять участие в разработке реальных проектов. В данный момент изучаю Vue.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katkovatanya&theme=moltack)
