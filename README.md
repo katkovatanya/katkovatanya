@@ -14,10 +14,11 @@
 <img src="https://img.shields.io/badge/Jest-6CADDF?style=for-the-badge&logo=Jest&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Express-6CADDF?style=for-the-badge&logo=Express&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MongoDB-6CADDF?style=for-the-badge&logo=MongoDB&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=PostgreSQL&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Nest-E0234E?style=for-the-badge&logo=NestJS&logoColor=000000"/>
 
-<br>
-<br>
-Хочу принять участие в разработке реальных проектов. В данный момент изучаю Vue.
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katkovatanya&theme=moltack)
