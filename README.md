@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Vue-6CADDF?style=for-the-badge&logo=Vue.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Postgres-6CADDF?style=for-the-badge&logo=PostgreSQL&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Nest-6CADDF?style=for-the-badge&logo=NestJS&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Bootstrap-6CADDF?style=for-the-badge&logo=Bootstrap&logoColor=000000"/>
 </p>
 
 
