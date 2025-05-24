@@ -1,5 +1,5 @@
 <h1 align="center">Всем привет</h1>
-Я - frontend-разработчица
+Пишу в команде 3D тренажёры для опасных профессий.
 <h2>Мой стек технологий:</h2>
 <p>
   <img src="https://img.shields.io/badge/HTML-6CADDF?style=for-the-badge&logo=HTML5&logoColor=000000"/>
